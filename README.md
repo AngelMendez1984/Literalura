@@ -8,6 +8,7 @@ Este proyecto es una aplicación desarrollada en Java que permite buscar libros 
 
 ## Utilización
 -Elije una de las opciones de menú y sigue las instrucciones.
+
 -Ingresa solo valores válidos para cada caso.
 
 ## Características
