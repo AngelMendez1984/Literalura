@@ -28,6 +28,15 @@ public class Principal {
         this.repositorioAutor=repositorioAutor;
     }
 
+    public void saludo(){
+        var saludo= """
+                *********************************************************************************
+                * Bienvenid@ a Literalura, por favor selecciona una de las siguientes opciones: *
+                *********************************************************************************
+                """;
+        System.out.println(saludo);
+    }
+
     public void muestraElMenu() {
 
 
