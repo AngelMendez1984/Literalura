@@ -18,6 +18,12 @@ Este proyecto es una aplicación desarrollada en Java que permite buscar libros 
 - Listar libros por idioma.
 - Interfaz sencilla y amigable con el usuario.
 
+## Base de datos
+El proyecto necesita la creación de una base de datos, ademas de proporcionarle el usuario y contraseña de la misma, estos datos deben agregarse en el archivo application.properties como se muestra en la imagen siguiente
+
+![image](https://github.com/AngelMendez1984/Literalura/assets/148590130/be21a62a-7b3b-422e-a4bd-bde6a73b397f)
+
+
 ## Tecnologías Utilizadas
 
 - Java.
