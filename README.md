@@ -6,10 +6,9 @@ Este proyecto es una aplicación desarrollada en Java que permite buscar libros 
 
 ![image](https://github.com/AngelMendez1984/Literalura/assets/148590130/83854730-c290-4974-9e11-cdc43b0d97a4)
 
-## Utilización
--Elije una de las opciones de menú y sigue las instrucciones.
+## Funcionamiento
 
--Ingresa solo valores válidos para cada caso.
+- Elije una de las opciones presentadas en el menú y sigue las instrucciones, si es el primer uso la base de datos se encontrará vacía, es necesario realizar una busqueda de libro por titulo primero.
 
 ## Características
 
@@ -26,4 +25,6 @@ Este proyecto es una aplicación desarrollada en Java que permite buscar libros 
 - JPA (Java Persistence API).
 - API externa (Gutenberg).
 
+## Manejo de errores
 
+- El programa maneja errores de entrada por parte del usuario, así como los provocados por respuestas incompletas de parte de la APi.
